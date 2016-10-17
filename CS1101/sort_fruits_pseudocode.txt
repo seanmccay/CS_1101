@@ -1,0 +1,25 @@
+# IMPORT package that allows interaction with files
+
+# DEFINE main function
+    # IF input file exists
+        # ASSIGN file to variable
+    # ELSE
+        # PRINT ERROR
+        # STOP PROGRAM
+
+    # READ infile and build list
+
+    # FOR each item in the list
+        # IF item is a newline char
+            # REMOVE item from list
+
+    # CALL sort method on list
+
+    # OPEN output file
+
+    #FOR each fruit in list
+        #WRITE fruit to output file
+
+
+    #CLOSE infile and outfile
+    #DONE

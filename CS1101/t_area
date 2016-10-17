@@ -1,0 +1,12 @@
+base = 12
+height = 16
+area = .5 * base * height  # calculate area using the formula area = 1/2 * base * height
+
+# print the measurements and area to the console
+print("The base of the triangle is: ")
+print(base)
+print("The height of the triangle is: ")
+print(height)
+print("Therefore, the area of the triangle is: ")
+print(area)
+

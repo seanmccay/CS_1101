@@ -1,0 +1,22 @@
+//DEFINE FUNCTION: compare(a, b)
+    //IF a > b
+        // RETURN 1
+    //ELSE IF a < b
+        // RETURN -1
+    //ELSE
+        // RETURN 0
+
+    //END OF FUNCTION
+
+// Call function 3 times to test
+
+//DECLARE VARIABLE: "result" to hold result of compare
+
+//result = compare(5, 2)
+//PRINT string value of result
+
+//result = compare(2, 5)
+//PRINT string value of result
+
+//result = compare(3, 3)
+//PRINT string value of result
